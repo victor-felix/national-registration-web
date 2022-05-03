@@ -1,4 +1,4 @@
-# Registratios Nacionais WEB
+# Registros Nacionais WEB
 
 Aplicação construída em ReactJS v18.0.0 para gerenciar a base de registros nacionais da Neoway
 
